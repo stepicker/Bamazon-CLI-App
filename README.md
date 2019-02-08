@@ -7,7 +7,7 @@ __Bamazon__ is a simple Amazon clone in the CLI, with a Customer App and a Manag
 
 ## Customer App
 
-The Customer App will first display the current catalog of available products. Then it will prompt the customer to choose a product:
+The Customer App immediately displays the current catalog of available products. Then it prompts the customer to choose which product they wish to purchase:
 
 > + If the input is not a number, or it does not correspond to an existing product ID, an error message will be displayed
 > + Once a correct input is typed in, the customer will be asked to select a quantity
@@ -16,14 +16,16 @@ The Customer App will first display the current catalog of available products. T
 
 ## Manager App
 
-The Manager App will offer four choices:
+The Manager App offers four features:
 
 > 1. View Products for Sale
 > 2. View Low Inventory
 > 3. Add to Inventory
 > 4. Add New Product
 
-The third and fourth choices allow the Manager to update the database, whose updated content is then immediately available in the app for additional actions.
+The first two options display the up-to-date inventory, including information about the stock quantity.
+
+The third and fourth choices allow the Manager to edit the database, whose updated content is then immediately available in the app for additional actions.
 
 ## Demo
 
