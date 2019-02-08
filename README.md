@@ -1,4 +1,4 @@
-# Bamazon-CLI-App
+# Bamazon-MySQL-App
 
 First assignment using MySQL at the Penn Coding Bootcamp!
 
