@@ -29,7 +29,7 @@ The third and fourth choices allow the Manager to edit the database, whose updat
 
 ## Demo
 
-[![Screenshot](https://raw.githubusercontent.com/stepicker/Bamazon-MySQL-App/master/screenshot.png)](https://youtu.be/XQNAK5zsTBA)
+[![Screenshot](https://raw.githubusercontent.com/stepicker/Bamazon-MySQL-App/master/screenshot.png)](https://youtu.be/S1SrbwpMeeI)
 
 Here is a [YouTube video](https://youtu.be/S1SrbwpMeeI) I made with a complete demo.
 
