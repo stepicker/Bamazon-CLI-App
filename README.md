@@ -7,12 +7,12 @@ __Bamazon__ is a simple Amazon clone in the CLI, with a Customer App and a Manag
 
 ## Customer App
 
-The Customer App immediately displays the current catalog of available products. Then it prompts the customer to choose which product they wish to purchase:
+This App immediately displays the current catalog of available products. Then it prompts the customer to choose which product they wish to purchase:
 
 > + If the input is not a number, or it does not correspond to an existing product ID, an error message will be displayed
 > + Once a correct input is typed in, the customer will be asked to select a quantity
 > + If the selected quantity is higher than the availability in stock, a courtesy message will be displayed
-> + Otherwise, the customer will get an order confirmation (and the stock in the database will be depleted accordingly)
+> + Otherwise the customer will get an order confirmation, and the stock in the database will be depleted accordingly
 
 ## Manager App
 
